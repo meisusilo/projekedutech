@@ -5,6 +5,115 @@
 
 /* penutup fajar */
 /* content3 & 4 fadil */
+.head-content1{
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #f7ed4a;
+}
+
+.container{
+  margin: 0 270px;
+  text-align: center;
+}
+
+.display{
+  font-family:  sans-serif;
+  font-size: 2.8rem;
+}
+
+.title{
+  font-style: normal;
+  line-height: 1.2;
+}
+
+.font{
+  font-weight: 700;
+}
+
+.head-content2{
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url('background1.jpg');
+  position: relative;
+}
+
+.overlay{
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.cont1{
+  text-align: right;
+}
+
+.paragraph1{
+  color: white;
+  font-family: sans-serif;
+  font-size: 1.2rem;
+  font-style: normal;
+  line-height: 1.6;
+  position: relative;
+  align:  right;
+}
+
+.player{
+  padding-left: 0;
+  padding-right: 4rem;
+  float: left;
+  position: absolute;
+}
+
+.player img{
+  height: 265px;
+  width: 442px;
+  position: relative;
+}
+
+.head-content3{
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url('background1.jpg');
+  position: relative;
+}
+.overlay2{
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.cont2{
+  text-align: right;
+}
+
+.paragraph2{
+  color: white;
+  font-family: sans-serif;
+  font-size: 1.2rem;
+  font-style: normal;
+  line-height: 1.6;
+  position: relative;
+  align:  left;
+}
+
+.player2{
+  padding-left: 0;
+  padding-right: 4rem;
+  float: left;
+  position: relative;
+}
+
+.player2 img{
+  height: 265px;
+  width: 442px;
+  position: absolute;
+  padding-bottom: 500px;
+}
+
 
 /* penutup fadil */
 /* footer wahid  */
