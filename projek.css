@@ -150,14 +150,14 @@
 
 /* penutup mei */
 /*content2 fajar */
-.content1 {
+.content2 {
     background-image: url(imgcont/bgedu.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
 }
 
-.content1 #head {
+.content2 #head {
     background-color: yellow;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     width: 100%;
@@ -168,7 +168,7 @@
     padding-top: 30px;
 }
 
-.content1 #html {
+.content2 #html {
     background-color: whitesmoke;
     text-align: center;
     height: 170px;
@@ -177,7 +177,7 @@
     margin-top: 50px;
 }
 
-.content1 #nol {
+.content2 #nol {
     background-color: whitesmoke;
     text-align: center;
     height: 65px;
@@ -186,7 +186,7 @@
     margin-top: -165px;
 }
 
-.content1 #satu {
+.content2 #satu {
     background-color: whitesmoke;
     text-align: center;
     height: 65px;
@@ -195,7 +195,7 @@
     margin-top: 150px;
 }
 
-.content1 #java {
+.content2 #java {
     background-color: whitesmoke;
     text-align: center;
     height: 170px;
@@ -204,7 +204,7 @@
     margin-top: -65px;
 }
 
-.content1 #php {
+.content2 #php {
     background-color: whitesmoke;
     text-align: justify;
     height: 300px;
@@ -213,11 +213,11 @@
     margin-top: 65px;
 }
 
-.content1 #php h3 {
+.content2 #php h3 {
     text-align: center;
 }
 
-.content1 #dua {
+.content2 #dua {
     background-color: whitesmoke;
     text-align: center;
     height: 65px;
@@ -226,7 +226,7 @@
     margin-top: -300px;
 }
 
-.content1 #tiga {
+.content2 #tiga {
     background-color: whitesmoke;
     text-align: center;
     height: 65px;
@@ -235,7 +235,7 @@
     margin-top: 290px;
 }
 
-.content1 #inter {
+.content2 #inter {
     background-color: whitesmoke;
     text-align: justify;
     height: 300px;
@@ -244,11 +244,11 @@
     margin-top: -60px;
 }
 
-.content1 #inter h3 {
+.content2 #inter h3 {
     text-align: center;
 }
 
-.content1 #advance {
+.content2 #advance {
     background-color: whitesmoke;
     text-align: center;
     height: 170px;
@@ -257,7 +257,7 @@
     margin-top: 50px;
 }
 
-.content1 #empat {
+.content2 #empat {
     background-color: whitesmoke;
     text-align: center;
     height: 65px;
