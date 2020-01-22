@@ -8,6 +8,148 @@
 
 /* penutup fadil */
 /* footer wahid  */
+.footer #container {
+    background-color: #efefef;
+    padding-top: 50px;
+    padding-bottom: 75px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
+.footer #container h2 {
+    font-size: 44.8px;
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+}
+
+.footer #container p {
+    font-size: 19.2px;
+    font-family: 'Rubik', sans-serif;
+    color: #767676;
+    text-align: center;
+}
+
+#container a {
+    background-color: rgba(255, 68, 0, 0.932);
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 500px;
+    font-size: 20px;
+    border-radius: 30px;
+}
+
+
+a img {
+    letter-spacing: 1px;
+    height: 27px;
+    width: 26px;
+}
+
+#container a:hover,
+a:active {
+    background-color: blue;
+}
+
+#isi {
+    background-image: url(../projekedutech/img/web-design.jpg);
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+    padding: 120px;
+    font-size: 32px;
+    text-align: center;
+    color: white;
+}
+
+#isi h1 {
+    color: white;
+    font-family: 'rubik'sans-serif;
+    font-size: 44.8px;
+    text-align: center;
+}
+
+#isi p {
+    font-family: 'Rubik', sans-serif;
+    font-size: 24px;
+}
+
+#isi a {
+    background-color: #eadd0a;
+    color: black;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 50px;
+    font-size: 20px;
+    border-radius: 30px;
+}
+
+#isi a:hover,
+a:active {
+    background-color: lightyellow;
+}
+
+#akhir img {
+    height: 98.85px;
+    width: 96px;
+    float: left;
+}
+
+#akhir {
+    background-color: #2e2e2e;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#akhir img {
+    float: left;
+    margin-left: 100px;
+}
+
+#akhir #box {
+    background-color: #2e2e2e;
+    float: left;
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
+
+#akhir #box h2 {
+    font-family: 'Rubik', sans-serif;
+    font-size: 19px;
+    text-align: left;
+    float: left;
+    margin-left: 30px;
+}
+
+#akhir #box p {
+    font-family: 'Rubik', sans-serif;
+    font-size: 19px;
+    text-align: left;
+    float: left;
+    margin-left: 30px;
+}
+
+#box a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    margin-bottom: 120px;
+    margin-left: 1000px;
+}
 
 /* penutup wahid */
